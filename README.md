@@ -1,5 +1,4 @@
 
-Github readme
 
 <h1 align="center">Hi 👋, I'm Dev Shah</h1>
 
